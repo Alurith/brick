@@ -1,0 +1,12 @@
+# Server's code git GIT_URL
+PROJECT_URL=
+
+# Where to deploy your project
+DEPLOY_DIR=
+DATA_PATH=
+
+# Where git will pull your project
+GIT_DIR=
+
+# Which branch to check for update
+BRANCH=
