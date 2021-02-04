@@ -1,11 +1,9 @@
 # Brick
-======
 Scripts to deploy and update [ServUO](https://www.servuo.com) on Linux.
 
 **This project is currently in beta and should not be used on production enviroments**
 
 ## Installing
-------------
 To use this script to deploy and update your ServUo, clone this project in your server's home directory.
 
 Create a .env like the following example, use env-prototype as a reference.
@@ -51,11 +49,9 @@ Currently tested on the following systems
 If you want to contribute you can just submit a pull request.
 
 ## Found a bug?
------------------------------------------
 Please describe your issue on the [issues section](https://github.com/Alurith/brick/issues).
 
 ## Credits
--------
 * [ServUO](https://www.servuo.com)
 * [Using template with bash](https://stackoverflow.com/a/21265156)
 * [Simple automated GIT Deployment using GIT Hooks](https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa)
